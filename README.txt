@@ -29,5 +29,5 @@ Check the WooCommerce 'Orders' page, you should see a new column titled "Switch 
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release.
