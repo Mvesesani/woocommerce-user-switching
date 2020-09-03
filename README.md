@@ -12,18 +12,23 @@ Very helpful for quickly diagnosing customer issues.
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/) installed.
 - The [User Switching](https://wordpress.org/plugins/user-switching/) plugin installed.
 
+### Optional Related
+
+- [Admin Bar User Switching](https://github.com/wpmark/admin-bar-user-switching)
+
 ## Installation
 
 - Upload the `woocommerce-user-switching` folder to the `/wp-content/plugins/` directory
 - Activate the plugin through the 'Plugins' menu in WordPress
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## License
 
 The GNU General Public License Version 2 (GPLv2). Please see [License File](LICENSE.txt) for more information.
 
-### Related
-
-[Admin Bar User Switching](https://github.com/wpmark/admin-bar-user-switching)
 
 
 Made with :heart: in :zambia:
